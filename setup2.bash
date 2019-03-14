@@ -1,9 +1,5 @@
 #! /bin/bash -xve
-<<<<<<< HEAD
-#Written by yekieki
-=======
 #written by eki eki
->>>>>>> fe673d17a3d6ede885ebf43404cdbe12ff5a6088
 
 exec 2> /tmp/setup.log
 
