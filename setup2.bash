@@ -1,4 +1,5 @@
 #! /bin/bash -xve
+#written by eki eki
 
 exec 2> /tmp/setup.log
 
